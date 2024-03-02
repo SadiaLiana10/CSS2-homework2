@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&family=Permanent+Marker&display=swap');
+ 
+body{
+    font-family: "Permanent Marker", cursive;    
+    background-image: url(https://media.istockphoto.com/id/614623414/photo/abstract-orange-watercolor-background.webp?b=1&s=170667a&w=0&k=20&c=yKceSpB7UkwrX_iaTqHnNHOisWo3wfM7O0U9AJH7HNk=);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 900px 800px;
+ 
+    object-fit: scale-down;
+    
+    }
+    
+h1{
+    font-size: 200px;
+    font-weight: 700;
+    text-align: center;
+    background-image: url(https://media1.tenor.com/m/EvLOgydedAgAAAAC/aesthetic-your.gif);
+    object-fit: scale-down;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    
+    
+}
